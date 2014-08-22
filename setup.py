@@ -4,7 +4,7 @@ setup(
     name = 'GoogleMapsApi',
     packages = ['GoogleMapsApi'], # this must be the same as the name above
     version = '0.02.0',
-    description = 'Provide Goole Maps API Web Service under Python',
+    description = 'Provide Google Maps API Web Service under Python',
     license = "GPL",
     author = 'Walter Tsui',
     author_email = 'waltertech426@gmail.com',

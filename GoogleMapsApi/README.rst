@@ -2,7 +2,7 @@
 /***************************************************************************
  Google Maps API
                                  A Python module
-Provide Goole Maps API Web Service under Python 
+Provide Google Maps API Web Service under Python 
                              -------------------
         begin                : 2014-02-14
         copyright            : (C) 2014 by Walter Tsui
